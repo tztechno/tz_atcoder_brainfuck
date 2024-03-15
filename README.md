@@ -7,3 +7,5 @@ https://github.com/fabianishere/brainfuck
 https://www.dcode.fr/brainfuck-language
 
 https://github.com/felko/bfpy
+
+https://en.wikipedia.org/wiki/Brainfuck
