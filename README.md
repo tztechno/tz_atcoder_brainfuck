@@ -11,3 +11,5 @@ https://github.com/felko/bfpy
 https://en.wikipedia.org/wiki/Brainfuck
 
 改行はコードの機能に影響しない
+
+コードテストでOKでも提出でERROR起こる
